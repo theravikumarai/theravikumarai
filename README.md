@@ -2,7 +2,7 @@ Hi, I'm Ravi Kumar
 
 AI Engineer building reliable, production-ready AI systems.
 
-My interests span Machine Learning, Deep Learning, NLP, /large language models, agentic AI, retrieval-augmented generation (RAG) and AI infrastructure. I enjoy designing systems that bridge research and real-world applications.
+My interests span Machine Learning, Deep Learning, NLP, Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG) and AI infrastructure. I enjoy designing systems that bridge research and real-world applications.
 
 Current Work
 
