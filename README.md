@@ -16,8 +16,6 @@ Selected Projects
 - Portfolio AI Backend (FastAPI, AWS)
 - TubeNotes AI
 
-«More projects will be added as they are completed and open sourced.»
-
 Recognition
 
 - Top 9 Finalist - Google Cloud Agentic AI Hackathon 2025
