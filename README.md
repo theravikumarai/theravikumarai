@@ -13,7 +13,7 @@ Current Work
 Selected Projects
 
 - Multi-Agent AI Platform (In Progress)
-- Portfolio AI Backend (FastAPI, AWS)
+- Portfolio (React, FastAPI, AWS)
 - TubeNotes AI
 
 Recognition
@@ -32,3 +32,4 @@ Connect
 - Kaggle — https://kaggle.com/theravikumarai
 - Medium — https://medium.com/@theravikumarai
 - YouTube — https://youtube.com/@theravikumarai
+- -----
