@@ -20,7 +20,7 @@ Selected Projects
 
 Recognition
 
-- Top 9 Finalist — Google Cloud Agentic AI Hackathon 2025
+- Top 9 Finalist - Google Cloud Agentic AI Hackathon 2025
 
 Writing & Sharing
 
